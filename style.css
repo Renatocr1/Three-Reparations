@@ -1,6 +1,16 @@
 /* Importación de fuente Montserrat */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap');
 
+#logo-login{
+    margin-top: -250px;
+    
+}
+
+#logo-signup{
+    margin-top: -100px;
+}
+
+
 * {
     margin: 0;
     padding: 0;
